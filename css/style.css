@@ -1,0 +1,99 @@
+@charset "UTF-8";
+html{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	scroll-behavior: smooth;
+}
+
+body{
+	background: black;
+}
+
+#logo{
+	height: 50px;
+}
+
+.inicio{
+	margin-bottom: 70px;
+	padding-top: 100px;
+}
+
+/*About*/
+.about{
+	margin-bottom: 70px;
+	padding-top: 100px;
+}
+
+/*Gameplay*/
+.gameplay{
+	margin-bottom: 70px;
+	padding-top: 100px;
+}
+
+/*Videos*/
+.videos{
+	text-align: center;
+	margin-bottom: 70px;
+	padding-top: 100px;
+}
+
+/*Carrousel*/
+.carousel-screenshots{
+	margin-bottom: 70px;
+	padding-top: 100px;
+}
+
+/*BuyNow*/
+.buynow{
+	text-align: center;
+	margin-bottom: 70px;
+	padding-top: 100px;
+}
+
+/*Técnica*/
+.tecnica{
+	text-align: center;
+	margin-bottom: 70px;
+	padding-top: 100px;
+}
+
+/*Formulario de Contacto*/
+.formulario-contacto{
+	margin-bottom: 70px;
+	padding-top: 100px;
+}
+
+.header{
+	color: white;
+}
+
+.form-check{
+	color: white;
+}
+/*Texto*/
+h1{
+	padding-bottom: 10px;
+	color: red;
+	text-align: center;
+	text-decoration: underline;
+}
+
+p{
+	text-align: center;
+}
+
+legend{
+	text-decoration: underline;
+}
+
+label{
+	color: white;
+}
+footer{
+	text-align: center;
+	color: red;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+/*# sourceMappingURL=style.css.map */

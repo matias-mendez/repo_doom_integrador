@@ -1,0 +1,76 @@
+$black: black;
+$white: white;
+$red: red;
+$size: 10px;
+
+html {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  scroll-behavior: smooth;
+}
+
+body {
+  background: $black;
+}
+
+#logo {
+  height: $size*5;
+}
+
+.inicio, .about, .gameplay {
+  margin-bottom: 70px;
+  padding-top: 100px;
+}
+
+.videos {
+  text-align: center;
+  margin-bottom: 70px;
+  padding-top: 100px;
+}
+
+.carousel-screenshots {
+  margin-bottom: 70px;
+  padding-top: 100px;
+}
+
+.buynow, .tecnica {
+  text-align: center;
+  margin-bottom: 70px;
+  padding-top: 100px;
+}
+
+.formulario-contacto {
+  margin-bottom: 70px;
+  padding-top: 100px;
+}
+
+.header, .form-check {
+  color: $white;
+}
+
+h1 {
+  padding-bottom: 10px;
+  color: $red;
+  text-align: center;
+  text-decoration: underline;
+}
+
+p {
+  text-align: center;
+}
+
+legend {
+  text-decoration: underline;
+}
+
+label {
+  color: $white;
+}
+
+footer {
+  text-align: center;
+  color: $red;
+  padding-left: 10px;
+  padding-right: 10px;
+}
